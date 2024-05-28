@@ -1,0 +1,32 @@
+html {
+  background-color: black;
+}
+
+.BoxImage {
+  background-color: black;
+  width: 50%;
+  margin-left: 25%;
+}
+
+#imageLove {
+  border: solid white 5px;
+  width: 100%;
+}
+
+#title {
+  font-family: "Libre Baskerville", serif;
+  font-size: auto;
+  font-style: normal;
+  text-align: center;
+  text-transform: uppercase;
+  color: white;
+  background-color: black;
+}
+
+#content {
+  font-style: normal;
+  font-size: auto;
+  text-align: center;
+  color: white;
+  background-color: black;
+}
